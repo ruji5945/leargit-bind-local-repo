@@ -8,3 +8,5 @@ Creating a new branch is quick and simple.
 3.
 test --no-ff.
 test stash.
+Creating a new branch is quick AND simple.
+test multi2.
