@@ -4,5 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes.
 CRJ test.
 Creating a new branch is quick.
-Creating a new branch is quick & simple.
-2.
+Creating a new branch is quick and simple.
+3.
